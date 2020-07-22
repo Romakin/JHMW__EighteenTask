@@ -13,3 +13,5 @@
 - [run.sh](./run.sh)
 
 Данные файлы отвечают за возможность сборки и запуска консольного проекта, импортированного из IntelliJ IDEA.
+
+## [Открыть проект с помощью REPL.IT](https://repl.it/github/Romakin/JHMW__EighteenTask)
